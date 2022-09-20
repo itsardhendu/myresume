@@ -1,0 +1,100 @@
+body{
+    margin: 0;
+    text-align: center;
+  }
+  h1{
+    margin-top: 0;
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
+    color: #bf770bb6;
+    font-weight: 500;
+    line-height: 2;
+  }
+  h2{
+    font-family: 'Roboto Slab', serif;
+    
+  }
+  h3{
+    font-family: 'Comfortaa', cursive;
+    color: #395B64;
+  }
+  h4{
+    font-family: 'Comfortaa', cursive;
+    color: #395b64ad;
+  }
+  h5{
+    color: brown;
+  }
+  hr{
+    border-color: #395B64;
+    border-top-style: dotted;
+    border-bottom: hidden;
+    border-left: none;
+    border-right: none;
+    border-width: 5px;
+    width: 20%;
+  }
+  .top-container{
+    background-color: rgb(243, 221, 171);
+    position: relative;
+    padding-top: 100px;
+  }
+  .top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+  }
+  .bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+  }
+  .my_dp{
+    height: 70px;
+    width: auto;
+    border-radius: 50%;
+    position: absolute;
+    left: 25px;
+    top: 25px;
+  }
+  .copy-right{
+    font-size: 10pt;
+  }
+  .middle-container{
+    background-color: #A5C9CA;
+    padding: 1px;
+  }
+  .skills{
+    padding: 1px;
+    padding-bottom: 1px;
+  }
+  .contact-me{
+    background-color: #A5C9CA;
+    padding: 1px;
+    padding-top: 1px;
+  }
+  .web-devs{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 1.5;
+  }
+  .web-dev-gif{
+    width: 30%;
+    float: left;
+    margin-right: 50px;
+  }
+  .reading-books{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: right;
+    line-height: 1.5;
+  }
+  .reading-books-gif{
+    border-radius: 50%;
+    width: 30%;
+    float: right;
+    margin-left: 50px;
+  }
