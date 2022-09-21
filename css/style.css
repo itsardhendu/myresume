@@ -61,17 +61,13 @@ body{
   .copy-right{
     font-size: 10pt;
   }
-  .middle-container{
-    padding: 1px;
-  }
   .skills{
-    padding: 1px;
+    padding: 20px;
     padding-bottom: 1px;
   }
   .contact-me{
     background-color: #A5C9CA;
-    padding: 1px;
-    padding-top: 1px;
+    padding: 1;
   }
   .web-devs{
     margin: 100px auto 100px auto;
