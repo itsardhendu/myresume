@@ -4,6 +4,11 @@ body{
     text-align: center;
     color: #40514E;
   }
+  a{
+    color: rgb(255, 203, 84);
+    text-decoration: none;
+    font-style: italic;
+  }
 /*Heading & HR Tags*/
   h1{
     margin-top: 0;
