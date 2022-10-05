@@ -9,6 +9,9 @@ body{
     text-decoration: none;
     font-style: italic;
   }
+  a:hover{
+    color:rgba(255, 204, 84, 0.626) ;
+  }
 /*Heading & HR Tags*/
   h1{
     margin-top: 0;
@@ -102,7 +105,9 @@ body{
   .footer-link-img{
     width: 25px;
     height: auto;
+    margin: 5px 5px;
   }
   .copy-right{
     font-size: 10pt;
+    font-family: 'Roboto Slab', serif;
   }
